@@ -19,7 +19,7 @@
     "gl-react-negative": "^1.1.0",
     "gl-react-sepia": "git://github.com/stoffern/gl-react-sepia.git#780a5f9f6cc37bce617b669dd25bf4a5704bd88c",
     "gl-react-sharpen": "^1.0.2",
-    "gl-react-temperature": "^1.0.1",
+    "gl-react-temperature": "stoffern/gl-react-temperature@latest",
     "prop-types": "^15.6.0"
   },
   "peerDependencies": {
