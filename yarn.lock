@@ -1738,9 +1738,11 @@ gl-react-negative@^1.1.0:
   dependencies:
     prop-types "^15.6.0"
 
-gl-react-sepia@^1.0.3:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/gl-react-sepia/-/gl-react-sepia-1.0.5.tgz#6f2931a169e4d615bbf9dc5f3c617369a0467ba7"
+"gl-react-sepia@git://github.com/stoffern/gl-react-sepia.git#780a5f9f6cc37bce617b669dd25bf4a5704bd88c":
+  version "0.0.0-semantically-release"
+  resolved "git://github.com/stoffern/gl-react-sepia.git#780a5f9f6cc37bce617b669dd25bf4a5704bd88c"
+  dependencies:
+    prop-types "^15.6.0"
 
 gl-react-sharpen@^1.0.2:
   version "1.0.4"
