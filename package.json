@@ -17,9 +17,9 @@
     "gl-react-contrast-saturation-brightness": "^1.2.0",
     "gl-react-hue-rotate": "^1.2.0",
     "gl-react-negative": "^1.1.0",
-    "gl-react-sepia": "git://github.com/stoffern/gl-react-sepia.git#780a5f9f6cc37bce617b669dd25bf4a5704bd88c",
+    "gl-react-sepia": "stoffern/gl-react-sepia#780a5f9f6cc37bce617b669dd25bf4a5704bd88c",
     "gl-react-sharpen": "^1.0.2",
-    "gl-react-temperature": "stoffern/gl-react-temperature@latest",
+    "gl-react-temperature": "stoffern/gl-react-temperature#c1a28dc43d5814600e63104067e5350f9f45caa0",
     "prop-types": "^15.6.0"
   },
   "peerDependencies": {
